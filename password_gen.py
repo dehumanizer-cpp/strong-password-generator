@@ -2,7 +2,7 @@ import string,random,os
 
 
 txt_name=input("txt name>>>")
-loop=int(input("loop>>>"))
+loop=int(input("loop>>>"))#amount of password
 leng=int(input("password length>>>"))
 
 k=[string.ascii_lowercase,string.ascii_uppercase,string.digits,string.punctuation]
